@@ -1,0 +1,3 @@
+. build/envsetup.sh
+lunch twrp_a15x-eng
+mka recoveryimage
